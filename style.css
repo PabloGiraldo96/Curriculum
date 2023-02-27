@@ -1,0 +1,84 @@
+body{
+margin:7rem;
+display:flexbox;
+padding: 0;
+font-family: 'Source Sans Pro', sans-serif;
+background: linear-gradient(-45deg, #ed967c, #e677a2, #69c6e7, #67e0c4);
+background-size: 400% 400%;
+animation: gradient 18s ease infinite;
+height: 110vh;
+}
+
+.main_wrapper{
+margin-inline-start: auto;
+max-width: 45rem;
+font-size: 1.5rem;
+font-weight: normal;
+}
+
+.aside{
+position: absolute;
+left: 50px;
+font-size: 1rem;
+font-weight: bold;
+}
+
+
+a{
+text-decoration: none;
+cursor: pointer;
+}
+
+
+h1{
+transition: all 0.5s ease;
+cursor: pointer;
+display: block;
+letter-spacing: 3px;
+font-size: 4rem;
+font-weight:600;
+}
+
+h3{
+font-size: 1rem;
+font-weight:bolder;
+}
+
+img{
+display: none;
+position: absolute;
+top: 105px;
+left: 185px;
+width: 20rem;
+height: 30rem;
+border-radius: 25px;
+}
+
+footer{
+display: none;
+transition: all 0.5s ease;
+position: relative;
+text-align: center;
+font-size: 1.5rem;
+font-weight: bolder;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+	font-size: 12px;
+    display: block;
+	max-width: fit-content;
+  }
+}
