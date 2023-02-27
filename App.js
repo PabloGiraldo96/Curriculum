@@ -7,7 +7,7 @@ let footer = document.getElementById('footer');
 footer.style.display="block";
 }
 
-myTimeout();
+myTimeout;
 
 function getRandomColor() {
 	let letters = '0123456789ABCDEF';
