@@ -6,7 +6,7 @@ font-family: 'Source Sans Pro', sans-serif;
 background: linear-gradient(-45deg, #ed967c, #e677a2, #69c6e7, #67e0c4);
 background-size: 400% 400%;
 animation: gradient 18s ease infinite;
-height: 110vh;
+height: 115vh;
 }
 
 .main_wrapper{
