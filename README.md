@@ -3,7 +3,7 @@
 
 *Still pending to apply responsiveness*
 ## Screenshots
-![App Screenshot](https://scontent.feoh3-1.fna.fbcdn.net/v/t1.15752-9/328683021_668042535124367_1201379679660109439_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFsP9gXLjbDAbcydBAZtDvo-7JdvpHkTsH7sl2-keROwSsXWeE2Hb4oFJVg30aHRksOXD7sDw6qGIg4jX4gaHp7&_nc_ohc=ueyKpLmrUKoAX_Mr04i&_nc_ht=scontent.feoh3-1.fna&oh=03_AdQx_S0L_vPHq6HiJE9KygHu5WNyP5XRdg-1H1VKc7L8gw&oe=64238F9C)
+![App Screenshot](https://scontent.feoh3-1.fna.fbcdn.net/v/t1.15752-9/362486164_1655811098255847_2580259260553807272_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHsMMrMDxMRAw41Iy4D4Ta-p4gfll29Xy2niB-WXb1fLbJI72B1oVcyCQJIPkwGgF1P4ATBoIP4LhtfNUH0fAj8&_nc_ohc=_SVfiYuzqTAAX9hJ5Tb&_nc_ht=scontent.feoh3-1.fna&oh=03_AdQoDcWyIqv58ySWOJ1JCYjFyhFqJ2A1j8-WBgpA9c5E1g&oe=64E6B75D)
 # Badges: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,4 +14,4 @@
 * Background gradient, color proportion
 * Change dinamic of title color, colors randomly generated on Javascript. 
 *** 
-All rights reserved [Juan Pablo Jaramillo](https://github.com/HotSauce96)
+All rights reserved by [Juan Pablo Jaramillo](https://github.com/PabloGiraldo96)
